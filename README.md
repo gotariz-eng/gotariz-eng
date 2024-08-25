@@ -16,6 +16,10 @@ Welcome to my GitHub profile! I'm Fariz Ali Danuritno, an enthusiast in electron
 - **Languages:** C, Python, Ladder Logic
 - **Tools:** Arduino, ESP
 - **Design:** EAGLE-(PCB Layout), Aspire(2D Design)
+- 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Let’s push the boundaries of technology together!
 
